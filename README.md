@@ -49,56 +49,154 @@ I work across **design and development**, which allows me to think about both ho
 
 ---
 
-## ◈ My Stack
+## ✦ Tech Stack
 
-### Development
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
+### 💻 Technologies
 
-### Frontend
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<sub>Python</sub>
+</td>
 
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+<sub>C</sub>
+</td>
 
-### Backend & Database
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>
+<sub>C++</sub>
+</td>
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>
+<sub>JavaScript</sub>
+</td>
 
-### Design
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<sub>SQL</sub>
+</td>
+</tr>
 
-<p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-</p>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+<sub>React.js</sub>
+</td>
 
-### Tools
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+<sub>Node.js</sub>
+</td>
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="55"/><br>
+<sub>Express.js</sub>
+</td>
 
----
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<sub>HTML5</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<sub>CSS3</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>
+<sub>MongoDB</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<sub>MySQL</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<sub>REST APIs</sub>
+</td>
+
+<td align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbvN_OuB2IGwAVwRdTGjL4-IZzmCU14Vg1qEGHwsfQIQ&s=10" width="55"/><br>
+<sub>JSON</sub>
+</td>
+
+</tr>
+</table>
+
+
+
+
+### 🔧 Developer Tools
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<sub>Git</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<sub>GitHub</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<sub>VS Code</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pycharm" width="55"/><br>
+<sub>PyCharm</sub>
+</td>
+
+</tr>
+</table>
+
+
+### 🎨 Design Tools
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br>
+<sub>Figma</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ai" width="55"/><br>
+<sub>Illustrator</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ps" width="55"/><br>
+<sub>Photoshop</sub>
+</td>
+
+<td align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdG5WTqP_A1sx3YtyTpB0Ht3TCX1KY0DVtGBpVsvt9Ng&s=10" width="55"/><br>
+<sub>Canva</sub>
+</td>
+
+<td align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHwgEC6hKSbjRGSq1a-jgkeY4oLzk67XrlrjcOYOb1A&s=10" width="55"/><br>
+<sub>SketchBook</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## ◇ Selected Work
 
