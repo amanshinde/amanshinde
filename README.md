@@ -1,28 +1,37 @@
+<!-- ======================= HERO ======================= -->
+
 <div align="center">
 
 # Aman Shinde
 
-### `UI/UX Designer` · `Frontend Developer` · `Full Stack Developer`
+### `Full Stack Developer` · `Frontend Developer` · `UI/UX Designer`
 
-<p>
-  <a href="https://www.linkedin.com/in/aman-shinde-29a6a227a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shindeaman31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/amanshinde">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=amanshinde&label=Profile%20Views&color=6366f1&style=flat-square"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+digital+experiences+that+work.;Designing+interfaces+people+enjoy+using.;Turning+ideas+into+real+products.;Currently+exploring+AI+%2B+Web+Development." />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/aman-shinde-29a6a227a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:shindeaman31@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/amanshinde">
+<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=amanshinde&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" />
 
 </div>
 
 ---
+
 
 ## ✦ About Me
 
@@ -182,25 +191,19 @@ I enjoy taking an idea from:
 
 ---
 
-## 📊 GitHub Activity
+## 🔥 Contribution Streak
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amanshinde&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanshinde&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amanshinde&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🐍 Contribution Graph
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=amanshinde&theme=transparent&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
